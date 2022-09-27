@@ -1,5 +1,4 @@
-// This is a simple Password Generator App that will generate random password maybe you can you them to secure your account.
-// I tried my best to make the code as simple as possible please dont mind the variable names.
+
 
 
 // Clear the concole on every refresh
