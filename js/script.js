@@ -4,7 +4,7 @@
 // Clear the concole on every refresh
 console.clear();
 // set the body to full height
-// document.body.style.height = `${innerHeight}px`
+
 
 // Fill : The trailing color that you see when you drag the slider.
 // background : Default Range Slider Background
