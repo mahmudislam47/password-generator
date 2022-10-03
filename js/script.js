@@ -6,7 +6,6 @@ console.clear();
 // set the body to full height
 // document.body.style.height = `${innerHeight}px`
 
-// Range Slider Properties.
 // Fill : The trailing color that you see when you drag the slider.
 // background : Default Range Slider Background
 const sliderProps = {
