@@ -3,7 +3,7 @@
 
 // Clear the concole on every refresh
 console.clear();
-
+// set the body to full height
 
 
 
